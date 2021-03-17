@@ -2,7 +2,7 @@
   Desafio: Construindo o Watch Me
 </h3>
 <br />
-<blockquote align="center">“Sem saber que era impossivvel, foi lá e fez!”</blockquote>
+<blockquote align="center">“Sem saber que era impossivel, foi lá e fez!”</blockquote>
 <br/>
 
 ## 🚀 - Sobre o desafio
